@@ -6,7 +6,7 @@ public class CustomLinkedList {
     Node tail;
 
     public CustomLinkedList(int value) {
-        Node newNode = new Node(value);
+        Node newNode = new Node(value );
         head = newNode;
         tail = newNode;
         head.prev = null;
@@ -46,7 +46,7 @@ public class CustomLinkedList {
         newNode.prev = tail;
         newNode.next = null;
         tail = newNode;
-        noOfNodes++;
+        noOfNodes = noOfNodes + 1;
     }
 
     public void insert(int value, int location) { // We add to specific location on linkedList.
