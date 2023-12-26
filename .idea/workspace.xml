@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b8364516-07c4-40f6-895f-52aac860b051" name="Changes" comment="Seventh weeks code">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="b8364516-07c4-40f6-895f-52aac860b051" name="Changes" comment="Elevator Project">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +19,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="391a87d7-539d-4c72-adfd-546dad7a5ac6" />
+        <option name="url" value="https://github.com/BilalDurmus08/Bim209_PrinciplesofSoftwareDesignandAlgorithm.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -77,7 +84,7 @@
         <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
       </method>
     </configuration>
-    <configuration name="TestEvaluate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="TestEvaluate" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Hw_2_Data_Structure.TestEvaluate" />
       <module name="Bim209_PrinciplesofSoftwareDesignandAlgorithm" />
       <extension name="coverage">
@@ -115,7 +122,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestEvaluate" />
         <item itemvalue="Application.main" />
         <item itemvalue="Application.W5_2_Good_Design_Flexible_Software.FindInstrumentTester" />
         <item itemvalue="Application.Hospital" />
@@ -223,7 +229,14 @@
       <option name="project" value="LOCAL" />
       <updated>1703279732722</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Elevator Project">
+      <created>1703602673070</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1703602673070</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -251,7 +264,8 @@
     <MESSAGE value="Still trying" />
     <MESSAGE value="Final part. I Converted infix to Postfix. Also find the integer solution of postfix notation." />
     <MESSAGE value="Seventh weeks code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Seventh weeks code" />
+    <MESSAGE value="Elevator Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Elevator Project" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
